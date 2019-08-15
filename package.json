@@ -1,0 +1,44 @@
+{
+  "author": "Kasper Tidemann",
+  "bugs": {
+    "url": "https://github.com/tdmnco/kaspertidemann.dk/issues"
+  },
+  "description": "kaspertidemann.dk is the personal blog of Kasper Tidemann",
+  "devDependencies": {
+    "clean-css-cli": "4.3.0",
+    "cpy-cli": "2.0.0",
+    "elie": "0.1.9",
+    "imagemin-cli": "5.0.0",
+    "less": "3.9.0",
+    "npm": "6.10.3",
+    "npm-run-all": "4.1.5"
+  },
+  "homepage": "https://github.com/kaspertidemann.dk#readme",
+  "keywords": [
+    "blog",
+    "kasper",
+    "kaspertidemann",
+    "tdmnco",
+    "tidemann"
+  ],
+  "license": "MIT",
+  "name": "kaspertidemann.dk",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdmnco/kaspertidemann.dk.git"
+  },
+  "scripts": {
+    "build": "npx run-s build:*",
+    "build:clean": "rm -rf build",
+    "build:gfx": "npx imagemin-cli src/gfx/* --out-dir=build/gfx",
+    "build:less": "npx lessc src/less/styles.less build/css/styles.css && npx cleancss -o build/css/min.css build/css/styles.css",
+    "build:html": "npx elie --input=src/markdown --templates=src/templates --output=build/html",
+    "compile": "npm run build && npm run dist",
+    "dist": "npx run-p dist:*",
+    "dist:clean": "rm -rf dist",
+    "dist:css": "npx cpy build/css/min.css dist/css",
+    "dist:gfx": "npx cpy build/gfx/* dist/gfx",
+    "dist:html": "npx cpy build/html/*.html dist && npx cpy build/html/posts/*.html dist/posts"
+  },
+  "version": "1.0.0"
+}
