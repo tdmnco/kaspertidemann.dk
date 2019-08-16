@@ -1,0 +1,26 @@
+// Imports:
+@import '../mixins/width.less';
+@import '../variables/_breakpoints.less';
+@import '../variables/_colors.less';
+
+// Styles:
+footer {
+  .width();
+
+  padding: 12rem 0 4rem 0;
+
+  @media (max-width: @breakpoint-mobile) {
+    padding-top: 6rem;
+  }
+
+  p {
+    color: @grey;
+
+    a {
+      color: inherit;
+      font-size: inherit;
+      line-height: inherit;
+      padding: inherit;
+    }
+  }
+}

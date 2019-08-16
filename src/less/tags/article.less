@@ -1,7 +1,14 @@
+// Imports:
+@import '../variables/_breakpoints.less';
+
 // Styles:
 article {
   margin: 0 auto;
   max-width: 600px;
-  padding: 12rem 0 0 0;
+  padding: 8rem 0 4rem 0;
   width: 90%;
+
+  @media (max-width: @breakpoint-mobile) {
+    padding: 4rem 0;
+  }
 }

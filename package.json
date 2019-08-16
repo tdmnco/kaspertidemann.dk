@@ -7,7 +7,7 @@
   "devDependencies": {
     "clean-css-cli": "4.3.0",
     "cpy-cli": "2.0.0",
-    "elie": "0.1.9",
+    "elie": "0.2.0",
     "imagemin-cli": "5.0.0",
     "less": "3.9.0",
     "npm": "6.10.3",

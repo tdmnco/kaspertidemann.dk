@@ -20,16 +20,20 @@ title: Kasper Tidemann
 
 {{ end for each }}
 
+<nav>
+
 {{ if next page }}
 
-[Næste side](arkiv/{{ next page number }})
+[Næste side &raquo;](arkiv/{{ next page number }})
 
 {{ end if next page }}
 
 {{ if previous page }}
 
-[Forrige side](arkiv/{{ previous page number unless zero }})
+[&laquo; Forrige side](arkiv/{{ previous page number unless zero }})
 
 {{ end if previous page }}
+
+</nav>
 
 {{ end paginate }}

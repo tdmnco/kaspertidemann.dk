@@ -1,8 +1,17 @@
+// Imports:
+@import '../variables/_breakpoints.less';
+
 // Styles:
 p {
   font-size: 1.9rem;
   line-height: 3.5rem;
   padding: 0 0 3rem 0;
+
+  @media (max-width: @breakpoint-mobile) {
+    font-size: 1.7rem;
+    line-height: 3.1rem;
+    padding-bottom: 2.6rem;
+  }
 
   &:last-child {
     padding: 0;

@@ -1,20 +1,25 @@
 // Imports:
+@import '../mixins/width.less';
+@import '../variables/_breakpoints.less';
 @import '../variables/_colors.less';
 
 // Styles:
 header {
-  margin: 0 auto;
-  max-width: 600px;
-  padding: 6rem 0 0 0;
-  width: 90%;
+  .width();
+
+  padding: 12rem 0 2rem 0;
+
+  @media (max-width: @breakpoint-mobile) {
+    padding-top: 4rem;
+  }
 
   a {
     text-decoration: none;
 
     h1 {
-      font-size: 3rem;
+      font-size: 2.8rem;
       letter-spacing: .25rem;
-      line-height: 3rem;
+      line-height: 2.8rem;
       padding: 0;
     }
   

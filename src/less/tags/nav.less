@@ -1,0 +1,35 @@
+// Imports:
+@import '../mixins/width.less';
+@import '../variables/_breakpoints.less';
+@import '../variables/_colors.less';
+
+// Styles:
+nav {
+  .width();
+
+  height: 2.5rem;
+  margin-top: 6rem;
+
+  @media (max-width: @breakpoint-mobile) {
+    margin-top: 2rem;
+  }
+  
+  p {
+    position: absolute;
+
+    &:first-child {
+      right: 0;
+    }
+
+    &:nth-child(2) {
+      left: 0;
+    }
+
+    a {
+      font-size: 1.9rem;
+      font-weight: 600;
+      line-height: 2.5rem;
+      text-decoration: none;
+    } 
+  }
+}
