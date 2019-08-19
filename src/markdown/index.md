@@ -10,7 +10,7 @@ title: Kasper Tidemann
 
   <article>
 
-  # [{{ title }}]({{ slug }})
+  # [{{ title }}](/{{ slug }})
 
   {{ content }}
 
