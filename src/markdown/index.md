@@ -24,13 +24,13 @@ title: Kasper Tidemann
 
 {{ if next page }}
 
-[Næste side &raquo;](arkiv/{{ next page number }})
+[Næste side &raquo;](/arkiv/{{ next page number }})
 
 {{ end if next page }}
 
 {{ if previous page }}
 
-[&laquo; Forrige side](arkiv/{{ previous page number unless zero }})
+[&laquo; Forrige side](/arkiv/{{ previous page number unless zero }})
 
 {{ end if previous page }}
 
