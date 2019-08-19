@@ -21,19 +21,24 @@ div {
   }
 
   p {
-    font-size: 1.6rem;
+    font-size: 1.7rem;
     line-height: 2rem;
     position: absolute;
     left: 6rem;
 
+    @media (max-width: @breakpoint-mobile) {
+      font-size: 1.6rem;
+      line-height: 1.8rem;
+    }
+
     &:nth-child(2) {
       font-weight: 600;
-      top: 0;
+      top: .2rem;
     }
 
     &:nth-child(3) {
       color: @grey;
-      top: 2.2rem;
+      top: 2.4rem;
     }
   }
 }

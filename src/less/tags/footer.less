@@ -7,20 +7,43 @@
 footer {
   .width();
 
-  padding: 12rem 0 4rem 0;
+  padding: 4rem 0 8rem 0;
 
   @media (max-width: @breakpoint-mobile) {
-    padding-top: 6rem;
+    padding: 0 0 4rem 0;
   }
 
   p {
     color: @grey;
+
+    &:first-child {
+      padding-bottom: 8rem;
+
+      @media (max-width: @breakpoint-mobile) {
+        padding-bottom: 4rem;
+      }
+    }
 
     a {
       color: inherit;
       font-size: inherit;
       line-height: inherit;
       padding: inherit;
+    }
+
+    &:nth-child(2) {
+      a {
+        color: @black;
+        font-weight: 600;
+        letter-spacing: .25rem;
+        padding: 1rem 2rem 2rem 0;
+        text-decoration: none;
+
+        @media (max-width: @breakpoint-mobile) {
+          letter-spacing: .1rem;
+          padding: 1rem 1rem 2rem 0;
+        }
+      }
     }
   }
 }

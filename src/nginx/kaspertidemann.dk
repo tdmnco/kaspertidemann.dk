@@ -1,0 +1,28 @@
+server {
+        listen 80;
+
+        root /var/www/kaspertidemann.dk;
+        index index.html index.htm;
+
+        server_name test.kaspertidemann.dk kaspertidemann.dk www.kaspertidemann.dk;
+
+        access_log /var/log/nginx/kaspertidemann.dk.access.log;
+        error_log /var/log/nginx/kaspertidemann.dk.error.log;
+
+        location /css {
+                try_files $uri $uri/ /css/$uri;
+        }
+
+        location /gfx {
+                try_files $uri $uri/ /gfx/$uri;
+        }
+
+        location /arkiv {
+                rewrite ^/arkiv/$ $scheme://$server_name/ permanent;
+                rewrite ^/arkiv/(.*)$ /index-$1.html last;
+        }
+
+        location / {
+                try_files $uri $uri/ /posts/$uri.html;
+        }
+}
