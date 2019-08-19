@@ -1,6 +1,6 @@
 ---
 author: Kasper Tidemann
-created: 2016-03-27
+created: 2015-03-27
 date: den 27. marts 2015
 template: post
 title: Fredag morgen

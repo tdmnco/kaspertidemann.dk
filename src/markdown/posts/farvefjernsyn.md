@@ -1,6 +1,6 @@
 ---
 author: Kasper Tidemann
-created: 2016-06-04
+created: 2014-06-04
 date: den 4. juni 2014
 template: post
 title: Farvefjernsyn

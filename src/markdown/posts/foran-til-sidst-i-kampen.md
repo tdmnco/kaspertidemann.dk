@@ -1,6 +1,6 @@
 ---
 author: Kasper Tidemann
-created: 2016-06-09
+created: 2014-06-09
 date: den 9. juni 2014
 template: post
 title: Foran til sidst i kampen

@@ -1,6 +1,6 @@
 ---
 author: Kasper Tidemann
-created: 2016-05-25
+created: 2014-05-25
 date: den 25. maj 2014
 template: post
 title: Stærk sommer

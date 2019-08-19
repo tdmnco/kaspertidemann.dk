@@ -3,7 +3,7 @@ author: Kasper Tidemann
 created: 2016-01-31
 date: den 31. januar 2016
 template: post
-title: \§11-\§20 - De små hjem
+title: §11-§20 - De små hjem
 ---
 
 **§11:** Solens stråler glimter i vandspejlet, der ligger som tynd film ud over Bagsværd sø. Det er en stille aften i juli, en af de aftener som varer en hel sommer.

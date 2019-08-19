@@ -1,6 +1,6 @@
 ---
 author: Kasper Tidemann
-created: 2014-08-25
+created: 2014-08-18
 date: den 18. august 2014
 template: post
 title: Oxford i november
