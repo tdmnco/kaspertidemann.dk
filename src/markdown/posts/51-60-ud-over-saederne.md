@@ -1,7 +1,7 @@
 ---
 author: Kasper Tidemann
-created: 2016-01-31
-date: den 31. januar 2016
+created: 2014-08-15
+date: den 15. august 2014
 template: post
 title: §51-§60 - Ud over sæderne
 ---

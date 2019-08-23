@@ -1,7 +1,7 @@
 ---
 author: Kasper Tidemann
-created: 2016-01-31
-date: den 31. januar 2016
+created: 2015-08-11
+date: den 11. august 2015
 template: post
 title: §11-§20 - De små hjem
 ---

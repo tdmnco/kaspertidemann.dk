@@ -19,3 +19,5 @@ Færgelejet lå ud til en lille by bestående af et par huse og en vej, der var 
 Vi havde nået et forladt sted i verden. Sådan et sted, der kan danne rammen om en film om et menneske, der tager helt derud for at finde ingenting og sig selv.
 
 Vi ventede ved færgelejet med lige dele forhåbning og nervøsitet. Solens sidste stråler slog smut i vandspejlet og missede i vores øjne. Og så kom færgen. Og vi kom på den og vuggede over søen og til bredden på den anden side, hvor Burlington ventede.
+
+![Et par huse](/photos/strandet/1.jpg)
