@@ -11,3 +11,8 @@ Verden gennem et sigtekorn. Jeg holder vejret og trækker fingeren tilbage. Et s
 Om eftermiddagen viser North Bend sig som en god rejsekammerat, et roligt stop på vejen hjem fra Seattle til København, der tager os gennem bjergpas og ned ad sideveje, gennem små byer og ud i den vilde natur. Vi kørte ikke den lige vej hjem.
 
 På flyet takker jeg nej til den sædvanlige servering på en plastikbakke. Jeg har fået det, som jeg havde brug for. Det her liv er for vildt.
+
+![Billede 1](/photos/det-her-liv/1.png)
+![Billede 2](/photos/det-her-liv/2.png)
+![Billede 3](/photos/det-her-liv/3.png)
+![Billede 4](/photos/det-her-liv/4.png)

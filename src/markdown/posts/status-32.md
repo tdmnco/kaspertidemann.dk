@@ -11,3 +11,7 @@ Hvis du vil se hvad jeg ser, så skal du gå ud ad en hoveddør på Union Street
 Du skal bevæge dig ned ad Russian Hill, der skinner mod den blå himmel. Og så skal du ende på Mikkeller Bar, hvor du bestiller en Limfjordsporter som minder dig om dit hjemland.
 
 Så ser du hvad jeg ser fra hvor jeg befinder mig nu.
+
+![Billede 1](/photos/status-32/1.jpg)
+![Billede 2](/photos/status-32/2.jpg)
+![Billede 3](/photos/status-32/3.jpg)

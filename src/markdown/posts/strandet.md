@@ -20,4 +20,4 @@ Vi havde nået et forladt sted i verden. Sådan et sted, der kan danne rammen om
 
 Vi ventede ved færgelejet med lige dele forhåbning og nervøsitet. Solens sidste stråler slog smut i vandspejlet og missede i vores øjne. Og så kom færgen. Og vi kom på den og vuggede over søen og til bredden på den anden side, hvor Burlington ventede.
 
-![Et par huse](/photos/strandet/1.jpg)
+![Billede 1](/photos/strandet/1.jpg)

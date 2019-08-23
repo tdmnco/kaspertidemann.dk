@@ -8,7 +8,18 @@ article {
   padding: 4rem 0;
   width: 90%;
 
-  img {
-    width: 100%;
+  p {
+    img {
+      padding-bottom: 3rem;
+      width: 100%;
+
+      @media (max-width: @breakpoint-mobile) {
+        padding-bottom: 2.6rem;
+      }
+
+      &:last-child {
+        padding-bottom: 0;
+      }
+    }
   }
 }

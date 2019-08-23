@@ -7,3 +7,5 @@ title: Mod vinden
 ---
 
 Sidste trin klikker anderledes. Flyet får mig til at se til højre. Jeg tager et billede af solnedgangen. Og så banker propellerne mod vinden.
+
+![Billede 1](/photos/mod-vinden/1.jpg)

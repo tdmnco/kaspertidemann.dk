@@ -9,3 +9,7 @@ title: Status \#36
 Jeg står på en terrasse med udsigt til Angel Island. Det amerikanske flag svejer blidt i eftermiddagens stråler. Landskabet ligner noget fra en film.
 
 Jeg mødes med et væld af mennesker og får mit navn trykt på en trøje. Det er ikke mig selv, der giver næste omgang. Og jeg er forbløffet over at det virkelig kan være sådan.
+
+![Billede 1](/photos/status-36/1.jpg)
+![Billede 2](/photos/status-36/2.jpg)
+![Billede 3](/photos/status-36/3.jpg)

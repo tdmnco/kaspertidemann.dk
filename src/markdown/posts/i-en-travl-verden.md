@@ -7,3 +7,5 @@ title: I en travl verden
 ---
 
 I en travl verden gør det mig trist til mode at læse om to ældre kvinder som føler sig forladt og alene. Det har de jo netop ikke fortjent.
+
+![Billede 1](/photos/i-en-travl-verden/1.jpg)

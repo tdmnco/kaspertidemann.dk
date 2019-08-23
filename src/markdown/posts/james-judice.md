@@ -13,3 +13,5 @@ Baren lukkede tidligt og så stod vi der. Jeg var blevet anbefalet restauranten 
 Hans største drøm var at spille Batman en dag, men mindre kunne også gøre det, fortalte han. Det kunne fx være [hovedrollen i en lille film](https://www.youtube.com/watch?v=paMcxhwpmto), som sikkert ikke bliver den store succes – men alt har jo sin begyndelse et sted.
 
 Held og lykke med karrieren, James. Du skylder en tur i byen næste gang vi ses.
+
+![Billede 1](/photos/james-judice/1.jpg)

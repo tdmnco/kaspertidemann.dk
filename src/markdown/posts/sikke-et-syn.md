@@ -7,3 +7,5 @@ title: Sikke et syn
 ---
 
 Søndag aften sidder jeg tilbage efter en hæsblæsende weekend. Lørdag faldt jeg i vandet, både i overført betydning og bogstaveligt talt under Københavns skybrudne himmel. Sikke et syn.
+
+![Billede 1](/photos/sikke-et-syn/1.jpg)

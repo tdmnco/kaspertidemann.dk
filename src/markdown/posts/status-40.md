@@ -7,3 +7,5 @@ title: Status \#40
 ---
 
 Støvet fra Roskilde hang i næsen længe efter festivalen var forbi. Det var som altid et festfyrværkeri af store oplevelser, små glæder og stærke sammenhold. Jeg glæder mig allerede til næste år.
+
+![Billede 1](/photos/status-40/1.jpg)

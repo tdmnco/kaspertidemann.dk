@@ -13,3 +13,5 @@ Jeg tænker tit på ham. I bilen, på vej til møde og mens jeg står i kø og v
 Mit liv ændrede sig efter Pløgers død. En dag bliver postkassen ikke længere tømt. Indtil da vil jeg leve hver dag som var det den sidste.
 
 Jeg sætter hånden på din gravsten og forestiller mig at det er din skulder. Hvil i fred, Pløger.
+
+![Billede 1](/photos/fire-aar-siden/1.jpg)

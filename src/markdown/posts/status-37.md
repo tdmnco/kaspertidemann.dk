@@ -13,3 +13,6 @@ Jeg er til konference. En af talerne står på scenen og nævner mit navn foran 
 Da Pløger døde lovede jeg mig selv at følge hans råd: uanset hvor meget modgang livet byder mig, så giver jeg aldrig op.
 
 Det anslår en tone nede på bagerste række, der klinger længe efter konferencen er slut og sæderne er tomme. Jeg går tilbage over broen og sætter nøglekortet i hotelværelsets dør. Jeg slukker min telefon. Og sover en drømmeløs søvn.
+
+![Billede 1](/photos/status-37/1.jpg)
+![Billede 2](/photos/status-37/2.jpg)

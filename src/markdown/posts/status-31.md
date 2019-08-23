@@ -11,3 +11,5 @@ Jeg står på taget og kigger ud over byen.
 Jeg arbejder i et delta af timer, der løber ud i et hav af dage og endeløse nætter, der strander et sted i morgenstunden. Der lyder en fjern tuden, der minder om i går. Og om alle dage før den. Jeg drømmer om i morgen, for der er jeg nået endnu længere end i dag.
 
 Jeg står på taget og kigger ud over byen.
+
+![Billede 1](/photos/status-31/1.jpg)
