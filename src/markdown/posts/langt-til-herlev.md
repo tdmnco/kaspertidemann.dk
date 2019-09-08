@@ -1,7 +1,7 @@
 ---
 author: Kasper Tidemann
-created: 2013-08-24
-date: den 24. august 2013
+created: 2013-08-25
+date: den 25. august 2013
 template: post
 title: Langt til Herlev
 ---

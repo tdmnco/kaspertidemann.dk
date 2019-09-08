@@ -6,4 +6,4 @@ template: post
 title: Ingen kender fremtiden
 ---
 
-Det er selvmodsigende når en bank reklamerer for at ingen kender fremtiden og at man derfor bør spare op. Det er jo netop ligegyldigt at spare op, hvis vi alligevel ikke er her i morgen.
+Det er selvmodsigende når en bank reklamerer for at ingen kender fremtiden og at man derfor bør spare op, for hvis vi ikke er her i morgen, så er der jo intet at spare op til.

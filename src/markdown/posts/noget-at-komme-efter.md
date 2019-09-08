@@ -1,7 +1,7 @@
 ---
 author: Kasper Tidemann
-created: 2013-12-25
-date: den 25. december 2013
+created: 2013-12-27
+date: den 27. december 2013
 template: post
 title: Noget at komme efter
 ---

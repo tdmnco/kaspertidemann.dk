@@ -1,7 +1,7 @@
 ---
 author: Kasper Tidemann
-created: 2014-08-17
-date: den 17. august 2014
+created: 2014-08-20
+date: den 20. august 2014
 template: post
 title: Indlæg fra dengang \#14
 ---

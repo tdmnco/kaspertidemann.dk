@@ -3,7 +3,7 @@ author: Kasper Tidemann
 created: 2013-08-21
 date: den 21. august 2013
 template: post
-title: Langt til Herlev
+title: Status \#32
 ---
 
 Hvis du vil se hvad jeg ser, så skal du gå ud ad en hoveddør på Union Street og se til højre, hvor byens ældste isbutik ligger.

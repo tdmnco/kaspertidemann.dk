@@ -1,7 +1,7 @@
 ---
 author: Kasper Tidemann
-created: 2013-10-13
-date: den 14. oktober 2013
+created: 2013-10-15
+date: den 15. oktober 2013
 template: post
 title: Prisen på flybilletter
 ---

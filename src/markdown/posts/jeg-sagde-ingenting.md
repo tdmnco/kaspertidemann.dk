@@ -1,7 +1,7 @@
 ---
 author: Kasper Tidemann
-created: 2013-09-08
-date: den 8. september 2013
+created: 2013-09-09
+date: den 9. september 2013
 template: post
 title: Jeg sagde ingenting
 ---

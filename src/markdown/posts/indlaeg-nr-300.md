@@ -1,7 +1,7 @@
 ---
 author: Kasper Tidemann
-created: 2013-10-11
-date: den 11. oktober 2013
+created: 2013-10-13
+date: den 13. oktober 2013
 template: post
 title: Indlæg nr. 300
 ---

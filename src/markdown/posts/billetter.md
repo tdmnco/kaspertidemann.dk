@@ -1,7 +1,7 @@
 ---
 author: Kasper Tidemann
-created: 2015-02-05
-date: den 5. februar 2015
+created: 2015-02-08
+date: den 8. februar 2015
 template: post
 title: Billetter
 ---

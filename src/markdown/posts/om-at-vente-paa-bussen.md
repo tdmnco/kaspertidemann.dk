@@ -1,7 +1,7 @@
 ---
 author: Kasper Tidemann
-created: 2014-08-16
-date: den 16. august 2014
+created: 2014-08-17
+date: den 17. august 2014
 template: post
 title: Om at vente på bussen
 ---

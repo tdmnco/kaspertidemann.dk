@@ -1,7 +1,7 @@
 ---
 author: Kasper Tidemann
-created: 2013-10-12
-date: den 12. oktober 2013
+created: 2013-10-14
+date: den 14. oktober 2013
 template: post
 title: Det har været en rejse
 ---

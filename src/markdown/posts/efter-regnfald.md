@@ -1,7 +1,7 @@
 ---
 author: Kasper Tidemann
-created: 2014-02-06
-date: den 6. februar 2014
+created: 2014-02-07
+date: den 7. februar 2014
 template: post
 title: Det værste der kan ske
 ---

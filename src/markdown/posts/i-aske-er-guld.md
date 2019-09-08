@@ -1,7 +1,7 @@
 ---
 author: Kasper Tidemann
-created: 2013-10-08
-date: den 8. oktober 2013
+created: 2013-10-09
+date: den 9. oktober 2013
 template: post
 title: I aske er guld
 ---

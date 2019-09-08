@@ -11,7 +11,7 @@
     "elie": "0.2.0",
     "imagemin-cli": "5.0.0",
     "less": "3.10.3",
-    "npm": "6.11.2",
+    "npm": "6.11.3",
     "npm-run-all": "4.1.5"
   },
   "homepage": "https://github.com/kaspertidemann.dk#readme",
@@ -35,13 +35,13 @@
     "build:less": "npx lessc src/less/styles.less build/css/styles.css && npx cleancss -o build/css/min.css build/css/styles.css",
     "build:html": "npx elie --input=src/markdown --templates=src/templates --output=build/html",
     "build:photos": "npx copyfiles -u 2 src/photos/**/* build/photos",
-    "compile": "npm run build && npm run dist",
     "dist": "npx run-s dist:*",
     "dist:clean": "npx del dist",
     "dist:css": "npx copyfiles -u 2 build/css/min.css dist/css",
     "dist:gfx": "npx copyfiles -u 2 build/gfx/* dist/gfx",
     "dist:html": "npx copyfiles -u 2 build/html/*.html dist && npx copyfiles -u 3 build/html/posts/*.html dist/posts",
-    "dist:photos": "npx copyfiles -u 2 build/photos/**/* dist/photos"
+    "dist:photos": "npx copyfiles -u 2 build/photos/**/* dist/photos",
+    "release": "npm run build && npm run dist"
   },
   "version": "1.0.0"
 }

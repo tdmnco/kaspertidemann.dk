@@ -1,7 +1,7 @@
 ---
 author: Kasper Tidemann
-created: 2014-11-10
-date: den 10. november 2014
+created: 2014-11-12
+date: den 12. november 2014
 template: post
 title: Cykelnøgler
 ---

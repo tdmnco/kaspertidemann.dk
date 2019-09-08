@@ -1,7 +1,7 @@
 ---
 author: Kasper Tidemann
-created: 2013-12-26
-date: den 26. december 2013
+created: 2013-12-27
+date: den 27. december 2013
 template: post
 title: James Judice
 ---

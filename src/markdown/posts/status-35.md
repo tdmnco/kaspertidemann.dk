@@ -1,7 +1,7 @@
 ---
 author: Kasper Tidemann
-created: 2014-01-03
-date: den 3. januar 2014
+created: 2014-01-04
+date: den 4. januar 2014
 template: post
 title: Tro på verden
 ---

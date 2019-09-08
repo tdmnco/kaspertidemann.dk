@@ -1,7 +1,7 @@
 ---
 author: Kasper Tidemann
-created: 2014-06-22
-date: den 22. juni 2014
+created: 2014-06-23
+date: den 23. juni 2014
 template: post
 title: Det bedste ved at være syg
 ---

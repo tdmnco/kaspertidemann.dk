@@ -1,7 +1,7 @@
 ---
 author: Kasper Tidemann
-created: 2013-12-28
-date: den 28. december 2013
+created: 2013-12-29
+date: den 29. december 2013
 template: post
 title: Tusindvis af linjers kode endnu
 ---

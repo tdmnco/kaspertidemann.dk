@@ -1,7 +1,7 @@
 ---
 author: Kasper Tidemann
-created: 2013-08-14
-date: den 14. august 2013
+created: 2013-08-15
+date: den 15. august 2013
 template: post
 title: Håndværk
 ---

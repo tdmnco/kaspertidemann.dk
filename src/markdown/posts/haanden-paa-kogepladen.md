@@ -1,7 +1,7 @@
 ---
 author: Kasper Tidemann
-created: 2013-08-10
-date: den 10. august 2013
+created: 2013-08-11
+date: den 11. august 2013
 template: post
 title: Hånden på kogepladen
 ---

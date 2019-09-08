@@ -1,7 +1,7 @@
 ---
 author: Kasper Tidemann
-created: 2014-01-25
-date: den 25. januar 2014
+created: 2014-01-26
+date: den 26. januar 2014
 template: post
 title: Magisk sommer
 ---
